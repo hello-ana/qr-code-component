@@ -74,13 +74,13 @@ body {
 .qr-card-content h1 {
   font-size: 22px;
   font-weight: 700;
-  line-height: 120%;
+  line-height: 26.4px;
   color: var(--slate-900);
 }
 
 .qr-card-content p {
   font-size: 15px;
   font-weight: 400;
-  line-height: 140%;
+  line-height: 21px;
   color: var(--slate-500);
 }
